@@ -1,0 +1,14 @@
+{
+  "app_name": "Playground",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "add": "Add",
+  "delete": "Delete",
+  "copied": "Copied",
+  "please_choose": "Please Choose",
+  "language": {
+    "en": "English",
+    "fr": "French",
+    "de": "German"
+  }
+}
